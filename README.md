@@ -19,3 +19,4 @@ The chatbot can handle:
 - Order status queries
 - Product recommendations
 - Customer support tickets
+![workflow](https://github.com/user-attachments/assets/bb5873a7-3e09-4288-adb5-583f51371360)
